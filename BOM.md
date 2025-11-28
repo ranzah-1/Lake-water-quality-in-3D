@@ -15,7 +15,6 @@
 |[Water Proof Casing](https://bluerobotics.com/store/watertight-enclosures/wte-vp/)|Can handle up to 1000m depth||
 |[Bulkhead Seal](https://bluerobotics.com/store/cables-connectors/penetrators/wlp-vp/)|To expose sensor to water, can handle 1000m depth||
 | Turbidity Sensor | Components | Qty |
-|---|---|---|
 
 | ACTIVE COMPONENTS |  |  |
 |[Op-Amp : TLC271ACD Texas Instruments](https://www.digikey.se/en/products/detail/texas-instruments/TLC271ACD/374879)|Programmable Op-Amp|X4|
