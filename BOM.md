@@ -16,19 +16,19 @@
 |[Bulkhead Seal](https://bluerobotics.com/store/cables-connectors/penetrators/wlp-vp/)|To expose sensor to water, can handle 1000m depth||
 # Turbidity Sensor - Bill of Materials (BOM)
 
-## Active Components
+Active Components
 | Qty | Part Number | Description | Digi-Key Link |
 |-----|-------------|-------------|---------------|
 | 4 | TLC271ACD | Op-Amp SOIC-8 | [Link](https://www.digikey.se/en/products/detail/texas-instruments/TLC271ACD/374879) |
 | 2 | 2N7002LT1G | N-MOSFET SOT-23 | [Link](https://www.digikey.se/en/products/detail/onsemi/2N7002/244345) |
 
-## Potentiometers
+ Potentiometers
 | Qty | Part Number | Value | Digi-Key Link |
 |-----|-------------|-------|---------------|
 | 2 | PVG5A104C03R00 | 100kΩ | [Link](https://www.digikey.se/en/products/detail/bourns-inc/PVG5A104C03R00/666289) |
 | 2 | PVG5A501C03R00 | 500Ω | [Link](https://www.digikey.se/en/products/detail/bourns-inc/PVG5A501C03R00/666298) |
 
-## Resistors (0603)
+ Resistors (0603)
 | Qty | Part Number | Value | Digi-Key Link |
 |-----|-------------|-------|---------------|
 | 4 | RC0603FR-074K7L | 4.7kΩ | [Link](https://www.digikey.se/en/products/detail/yageo/RC0603FR-074K7L/727212) |
@@ -38,7 +38,7 @@
 | 2 | RC0603FR-07270RL | 270Ω | [Link](https://www.digikey.se/en/products/detail/yageo/RC0603FR-07270RL/727103) |
 | 2 | RC0603FR-0713K7L | 13.7kΩ | [Link](https://www.digikey.se/en/products/detail/yageo/RC0603FR-0713K7L/726933) |
 
-## Capacitors (0805)
+ Capacitors (0805)
 | Qty | Part Number | Value | Type | Link |
 |-----|-------------|-------|------|------|
 | 2 | CL21B223KBANNNC | 22nF | X7R | [Link](https://www.digikey.se/en/products/detail/samsung-electro-mechanics/CL21B223KBANNNC/3886739) |
@@ -46,29 +46,29 @@
 | 1 | C0805C339DCGACTU | 3.3pF | C0G | [Link](https://se.farnell.com/kemet/c0805c339dcgactu/cap-3-3pf-500v-c0g-np0-0805/dp/2821038) |
 | 1 | C0805C101J5GACTU | 100pF | C0G | [Link](https://www.digikey.se/en/products/detail/kemet/C0805C101J5GACTU/411121) |
 
-## Diodes
+ Diodes
 | Qty | Part Number | Description | Digi-Key Link |
 |-----|-------------|-------------|---------------|
 | 1 | BAT54,235 | Schottky SOD-323 | [Link](https://www.digikey.se/en/products/detail/diotec-semiconductor/BAT54/13163463) |
 
-## LEDs - Indicator
+ LEDs - Indicator
 | Qty | Part Number | Color | Package | Digi-Key Link |
 |-----|-------------|-------|---------|---------------|
 | 1 | APT1608SECK | Orange | 0603 | [Link](https://www.digikey.se/en/products/detail/kingbright/APT1608SECK/1747518) |
 
-## LEDs - Infrared
+LEDs - Infrared
 | Qty | Part Number | Wavelength | Angle | Digi-Key Link |
 |-----|-------------|------------|-------|---------------|
-| 3 | WP7113SF6C | 860nm | 20° | [Link](https://www.digikey.se/en/products/detail/kingbright/WP7113SF6C/8591570) |
+| 2 | WP7113SF6C | 860nm | 20° | [Link](https://www.digikey.se/en/products/detail/kingbright/WP7113SF6C/8591570) |
 | 1 | SFH 4855 | 850nm | 16° | [Link](https://www.digikey.se/en/products/detail/ams-osram-usa-inc/SFH-4855/5719277) |
 | 1 | LiteOn E2871 | 940nm | 16° | [Datasheet](https://optoelectronics.liteon.com/upload/download/DS-50-92-0005/E2871.pdf) |
 | 2 | TSAL6100 | 940nm | 20° | [Link](https://www.digikey.se/en/products/detail/vishay-semiconductor-opto-division/TSAL6100/1681338) |
 
-## Photodiodes
+ Photodiodes
 | Qty | Part Number | Peak λ | Photocurrent | Digi-Key Link |
 |-----|-------------|--------|--------------|---------------|
-| 3 | BPW 34 S-Z | 850nm | 80µA | [Link](https://www.digikey.se/en/products/detail/ams-osram-usa-inc/BPW-34-S-Z/1893856) |
+| 2 | BPW 34 S-Z | 850nm | 80µA | [Link](https://www.digikey.se/en/products/detail/ams-osram-usa-inc/BPW-34-S-Z/1893856) |
 
 ---
 
-**Total Components: 42**
+
