@@ -14,8 +14,9 @@
 |[DC motor](https://www.biltema.se/bil---mc/lasta-och-dra/transporttillbehor/elektriska-vinschar/elvinsch-12-v-907-kg-2000042426?utm_source=google&utm_medium=cpc&utm_campaign=p-shopping-LIA-mid&gad_source=1&gad_campaignid=1603792037&gbraid=0AAAAADowiYi8V4ggsYYD4R_vxDRMR9FQR&gclid=Cj0KCQjwoP_FBhDFARIsANPG24PgOhgRuM1j2egWvMcDXaO6lrkzRsuYV2femD6pD6_SUT8Prufzs9IaAtKREALw_wcB)|Motor for pulley||
 |[Water Proof Casing](https://bluerobotics.com/store/watertight-enclosures/wte-vp/)|Can handle up to 1000m depth||
 |[Bulkhead Seal](https://bluerobotics.com/store/cables-connectors/penetrators/wlp-vp/)|To expose sensor to water, can handle 1000m depth||
-|[TLC271ACD Op-Amp](https://www.digikey.se/en/products/detail/texas-instruments/TLC271ACD/374879)|Signal amplification (Precision Op-Amp)| |
+|[TLC271ACD Op-Amp](https://www.digikey.se/en/products/detail/texas-instruments/TLC271ACD/374879)|Signal amplification (precision op-amp)| |
 |[2N7002 MOSFET](https://www.digikey.se/en/products/detail/onsemi/2N7002/244345)|Switching IR LED current| |
+
 |[100kΩ Trimmer PVG5A104C03R00](https://www.digikey.se/en/products/detail/bourns-inc/PVG5A104C03R00/666289)|Gain calibration| |
 |[500Ω Trimmer PVG5A501C03R00](https://www.digikey.se/en/products/detail/bourns-inc/PVG5A501C03R00/666298)|LED drive calibration| |
 
